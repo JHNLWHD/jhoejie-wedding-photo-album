@@ -136,7 +136,7 @@ const photos = [
     {
         asset: "21.jpg",
         width: 1080,
-        height: 1440,
+        height: 720,
         alt: "JhoeJie Wedding Picture",
     },
 ].map(
