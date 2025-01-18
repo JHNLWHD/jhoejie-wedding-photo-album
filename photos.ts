@@ -40,13 +40,25 @@ const photos = [
     {
         asset: "5.jpg",
         width: 1080,
-        height: 607,
+        height: 780,
         alt: "JhoeJie Picture",
     },
     {
         asset: "6.jpg",
         width: 1080,
-        height: 607,
+        height: 780,
+        alt: "JhoeJie Picture",
+    },
+    {
+        asset: "7.jpg",
+        width: 1080,
+        height: 780,
+        alt: "JhoeJie Picture",
+    },
+    {
+        asset: "8.jpg",
+        width: 1080,
+        height: 780,
         alt: "JhoeJie Picture",
     },
 ].map(
