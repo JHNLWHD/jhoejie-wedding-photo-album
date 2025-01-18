@@ -7,12 +7,36 @@ function assetLink(asset: string, width: number) {
 }
 
 const photos = [
-  {
-    asset: "intro.jpg",
-    width: 1080,
-    height: 780,
-    alt: "JhoeJie Picture with Newspaper Invitation",
-  },
+    {
+        asset: "intro.jpg",
+        width: 1080,
+        height: 780,
+        alt: "JhoeJie Picture with Newspaper Invitation",
+    },
+    {
+        asset: "1.jpg",
+        width: 1080,
+        height: 1620,
+        alt: "JhoeJie Picture",
+    },
+    {
+        asset: "2.jpg",
+        width: 1080,
+        height: 720,
+        alt: "JhoeJie Picture",
+    },
+    {
+        asset: "3.jpg",
+        width: 1080,
+        height: 720,
+        alt: "JhoeJie Picture",
+    },
+    {
+        asset: "4.jpg",
+        width: 1080,
+        height: 1620,
+        alt: "JhoeJie Picture",
+    },
 ].map(
   ({ asset, alt, width, height }) =>
     ({
