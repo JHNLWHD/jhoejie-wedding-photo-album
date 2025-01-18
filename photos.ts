@@ -154,25 +154,25 @@ const photos = [
     {
         asset: "24.jpg",
         width: 1080,
-        height: 720,
+        height: 1080,
         alt: "JhoeJie Wedding Picture",
     },
     {
         asset: "25.jpg",
         width: 1080,
-        height: 720,
-        alt: "JhoeJie Wedding Picture",
-    },
-    {
-        asset: "26.jpg",
-        width: 1080,
         height: 1620,
         alt: "JhoeJie Wedding Picture",
     },
     {
+        asset: "26.jpg",
+        width: 1620,
+        height: 1080,
+        alt: "JhoeJie Wedding Picture",
+    },
+    {
         asset: "27.jpg",
-        width: 1080,
-        height: 780,
+        width: 780,
+        height: 1080,
         alt: "JhoeJie Wedding Picture",
     },
     {
@@ -189,8 +189,8 @@ const photos = [
     },
     {
         asset: "30.jpg",
-        width: 1080,
-        height: 780,
+        width: 780,
+        height: 1080,
         alt: "JhoeJie Wedding Picture",
     },
     {
@@ -200,21 +200,15 @@ const photos = [
         alt: "JhoeJie Wedding Picture",
     },
     {
-        asset: "31.jpg",
-        width: 1080,
-        height: 720,
-        alt: "JhoeJie Wedding Picture",
-    },
-    {
         asset: "32.jpg",
         width: 1080,
-        height: 694,
+        height: 1549,
         alt: "JhoeJie Wedding Picture",
     },
     {
         asset: "33.jpg",
         width: 1080,
-        height: 1620,
+        height: 720,
         alt: "JhoeJie Wedding Picture",
     },
     {
@@ -226,13 +220,13 @@ const photos = [
     {
         asset: "35.jpg",
         width: 1080,
-        height: 1440,
+        height: 720,
         alt: "JhoeJie Wedding Picture",
     },
     {
         asset: "36.jpg",
         width: 1080,
-        height: 1620,
+        height: 720,
         alt: "JhoeJie Wedding Picture",
     },
     {
