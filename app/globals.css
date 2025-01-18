@@ -10,6 +10,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+h1, h2, h3, .header-title {
+  font-family: 'Playfair Display', 'Georgia', serif;
+}
+
 main {
   padding: 16px;
   max-width: 1200px;
