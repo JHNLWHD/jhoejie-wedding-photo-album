@@ -127,6 +127,18 @@ const photos = [
         height: 720,
         alt: "JhoeJie Picture",
     },
+    {
+        asset: "20.jpg",
+        width: 1080,
+        height: 720,
+        alt: "JhoeJie Picture",
+    },
+    {
+        asset: "21.jpg",
+        width: 1080,
+        height: 1440,
+        alt: "JhoeJie Picture",
+    },
 ].map(
   ({ asset, alt, width, height }) =>
     ({
