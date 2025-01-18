@@ -3,7 +3,6 @@ import "react-photo-album/masonry.css";
 
 import photos from "@/photos";
 
-
 export default function Home() {
   return <MasonryPhotoAlbum photos={photos} />;
 }
